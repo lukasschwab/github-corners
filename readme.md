@@ -1,3 +1,5 @@
+**Note from Lukas:** the ribbon I like and use is in transparency.html. Everything else is the tholman's work. I modified this repo for use in [tomatillo](http://lukasschwab.me/tomatillo/)!
+
 ### GitHub Corners
 
 Phew, GitHub is over seven years old now... and is unquestionably synonymous with open source. After 7 years, those GitHub ribbons are more than overdue for a cleaner, more modern alternative. [This is my take.](http://tholman.com/github-corners)
